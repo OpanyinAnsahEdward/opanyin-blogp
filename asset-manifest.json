@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/opanyin-blogp/static/css/main.18b59fcc.css",
+    "main.js": "/opanyin-blogp/static/js/main.56ec97d9.js",
+    "static/js/787.1462f05a.chunk.js": "/opanyin-blogp/static/js/787.1462f05a.chunk.js",
+    "index.html": "/opanyin-blogp/index.html",
+    "main.18b59fcc.css.map": "/opanyin-blogp/static/css/main.18b59fcc.css.map",
+    "main.56ec97d9.js.map": "/opanyin-blogp/static/js/main.56ec97d9.js.map",
+    "787.1462f05a.chunk.js.map": "/opanyin-blogp/static/js/787.1462f05a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18b59fcc.css",
+    "static/js/main.56ec97d9.js"
+  ]
+}
